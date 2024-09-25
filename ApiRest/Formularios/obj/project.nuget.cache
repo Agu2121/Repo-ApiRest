@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q1VphYPwr30Uo6HfUxXaIjjegZcqAMs14pmkK0ukrFxRDtkDldndrPlIFNaMwvYfkL3ZDOW9vc0GnoiPJxJ0VA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\agoro\\OneDrive\\Escritorio\\Segundo año ISP\\Programacion 1\\Soluciones\\ApiRest\\Formularios\\Formularios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agoro\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
